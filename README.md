@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Instituto Mexicano del Seguro Social**
 
-- 🌱 I’m currently learning **AWS , AZURE , C sharp**
+- 🌱 I’m currently learning **AWS , AZURE , Python**
 
-- 👨‍💻 All of my projects are available at [josearmando.art](josearmando.art)
+- 👨‍💻 All of my projects are available at [josearmando.site](josearmando.site)
 
-- 💬 Ask me about **SQL , MS Office, Statistics , Personnel management**
+- 💬 Ask me about **SQL , MS Office, Statistics , Data Science**
 
 - 📫 How to reach me **lia.josearmando@outlook.com**
 
